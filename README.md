@@ -1,2 +1,7 @@
-# CSE
-Content of all the coursework
+# ML Learning Path
+
+### Bayesian
+
+### Instance Based
+Clustering
+
