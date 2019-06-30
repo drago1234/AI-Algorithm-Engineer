@@ -1,5 +1,10 @@
 Machine Learning Task Lists
 
+Documentation format: 
+Begin by adding the notation: (initial on 2019/08/07 by @name)
+During the process by adding the notation: (implemented/tested/specified on 2019/08/07 by @name)
+Closed by adding the notation: (finished on 2019/08/07 by @name)
+
 ## Dimension Reduction Algorithms + Preprocessing
 * Principal Component Analysis (PCA)
 * Whitening using PCA (assigned to @Surya)
